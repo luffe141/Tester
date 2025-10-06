@@ -6,7 +6,7 @@ public class App {
         System.out.println("k3o2");
         System.out.println("TEST");
 
-        System.out.println("TEST IGEN IGEN GEI");
+        System.out.println("TEST IGwerwerwerwerEN IGEN GEI");
 
 
         System.out.println("TesttsRo");
