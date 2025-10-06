@@ -9,5 +9,10 @@ public class App {
         System.out.println("TEST IGEN IGEN GEI");
 
 
+        System.out.println("TesttsRo");
+
+        System.out.println("10");
+
+
     }
 }
