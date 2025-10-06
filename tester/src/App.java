@@ -8,8 +8,6 @@ public class App {
 
         System.out.println("TEST IGEN IGEN GEI");
 
-        System.out.println("TEST IGEN GEI");
 
-        System.out.println("kofdok");
     }
 }
